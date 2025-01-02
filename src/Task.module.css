@@ -1,0 +1,12 @@
+.deleteButton {
+  color: var(--mantine-color-red-9);
+}
+
+.deleteButton:hover {
+  color: var(--mantine-color-red-4);
+}
+
+.deleteButton:active {
+  transform: scale(0.75);
+  color: var(--mantine-color-red-4);
+}
